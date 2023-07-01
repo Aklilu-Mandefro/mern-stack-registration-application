@@ -91,3 +91,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ![reg](https://github.com/Aklilu-Mandefro/mern-stack-registration-application/assets/65851700/b97964bf-b4da-49a3-90c3-45af75ec4067)
 
+## Contribution 
+You can contribute to this project by working on one or more of the issues mentioned [here](https://github.com/Aklilu-Mandefro/mern-stack-registration-application/issues/) or by adding more advanced features to the project.
