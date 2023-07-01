@@ -89,3 +89,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Preview of the application
 <img src="https://i.imgur.com/MBHOiWM.mp4"/>
+
+<video src="https://i.imgur.com/MBHOiWM.mp4"/>
