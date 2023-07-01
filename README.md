@@ -2,7 +2,7 @@
 
 This is a simple beginner-friendly multi-step registration form with animated transitions using MongoDB, Express, React, and Node. 
 
-To run the project, first `install and start MongoDB database server`, then execute the following commands in sequence from the `mern-stack-registration-application` folder.
+To run the project, first `install and start MongoDB database server` on your machine, then execute the following commands in sequence from the `mern-stack-registration-application` folder.
 
 ```
 1. yarn install
