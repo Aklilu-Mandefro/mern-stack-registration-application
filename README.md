@@ -1,4 +1,4 @@
-## MERN stack registration application - for Beginners
+## MERN stack registration application - For Beginners
 
 This is a simple beginner-friendly multi-step registration form with animated transitions using MongoDB, Express, React, and Node. 
 
